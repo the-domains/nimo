@@ -1,0 +1,28 @@
+name: Nimo
+favicon: null
+layout_spectrum: 0.9362225919030607
+typography_spectrum: 0.15680636698380113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3492477734107524
+  lightness: 0.8973967188503593
+  saturation: 0.9411956998519599
+  rhythmicContrast: 0.949943037237972
+purpose: []
